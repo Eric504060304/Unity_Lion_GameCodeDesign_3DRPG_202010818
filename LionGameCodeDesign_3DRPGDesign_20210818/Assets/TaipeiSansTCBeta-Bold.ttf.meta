@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a194b9808481c844f9c976eece4328db
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Taipei Sans TC Beta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 202b33413691e234c9e5e35d4902ff83, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
